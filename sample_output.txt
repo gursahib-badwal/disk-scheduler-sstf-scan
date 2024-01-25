@@ -1,0 +1,19 @@
+
+Original Requests Array: [78, 45, 89, 125, 62, 156, 12, 165]
+
+SSTF requests array: [78, 89, 62, 45, 12, 125, 156, 165]
+
+Total number of tracks traversed: 243
+Longest Delay: 2
+Average Delay: 1.666667
+<----------------------------------------------------------------------------->
+
+
+
+Original Requests Array: [78, 45, 89, 125, 62, 156, 12, 165]
+
+SCAN array: [78, 62, 45, 12, 89, 125, 156, 165]
+
+Total track traversed: 219
+Longest Delay: 2
+Average Delay: 1.500000
